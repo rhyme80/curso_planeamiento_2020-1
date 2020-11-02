@@ -4,7 +4,7 @@ Proyectos desarrollados en el curso de planeamiento estrategico
 
 ## Telefónica 
 
-[Telefonica](https://github.com/your/project/contributors)
+[Telefonica](https://github.com/rhyme80/curso_planeamiento_2020-1/tree/master/Telefonica)
 
 * **Maricruz Huaynapata Quispe**
 * **Fernando Rafael Calla Yarihuaman** 
@@ -13,7 +13,7 @@ Proyectos desarrollados en el curso de planeamiento estrategico
 
 ## Apple 
 
-[Apple](https://github.com/your/project/contributors)
+[Apple](https://github.com/rhyme80/curso_planeamiento_2020-1/tree/master/Apple)
 
 * **Rony Bolaños Ccopa**
 * **Pamela Delgado Herrera** 
@@ -22,7 +22,7 @@ Proyectos desarrollados en el curso de planeamiento estrategico
 
 ## Petro Peru 
 
-[Petro Peru](https://github.com/your/project/contributors)
+[PetroPeru](https://github.com/rhyme80/curso_planeamiento_2020-1/tree/master/PeruPetro)
 
 * **Arthur Davis Huayaconza Condori**
 * **Erick Eribertho Chapi Huillca** 
@@ -32,7 +32,7 @@ Proyectos desarrollados en el curso de planeamiento estrategico
 
 ## Inka Farma 
 
-[Inka Farma](https://github.com/your/project/contributors)
+[InkaFarma](https://github.com/rhyme80/curso_planeamiento_2020-1/tree/master/Inkafarma)
 
 * **Jose Luis Catunta Chuchullo**
 * **Williams Letona Asto** 
@@ -41,7 +41,7 @@ Proyectos desarrollados en el curso de planeamiento estrategico
 
 ## Mikrotik 
 
-[Mikrotik](https://github.com/your/project/contributors)
+[Mikrotik](https://github.com/rhyme80/curso_planeamiento_2020-1/tree/master/Apple)
 
 * **Patricia Umeres Jimenez**
 * **Marisol Infantas Choquehuanca** 
@@ -51,7 +51,7 @@ Proyectos desarrollados en el curso de planeamiento estrategico
 
 ## Tesla 
 
-[Tesla](https://github.com/your/project/contributors)
+[Tesla](https://github.com/rhyme80/curso_planeamiento_2020-1/tree/master/Tesla)
 
 * **Fernando Callasaca Acuña**
 * **Edwin Marcelo Calderon Covarrubias** 
@@ -60,7 +60,7 @@ Proyectos desarrollados en el curso de planeamiento estrategico
 
 ## Huawei 
 
-[Huawei](https://github.com/your/project/contributors)
+[Huawei](https://github.com/rhyme80/curso_planeamiento_2020-1/tree/master/Huawei)
 
 * **Aldair Huarcaya Leon**
 * **Dennis Chalco Carrasco** 
@@ -69,7 +69,7 @@ Proyectos desarrollados en el curso de planeamiento estrategico
 
 ## Xiaomi 
 
-[Xiaomi](https://github.com/your/project/contributors)
+[Xiaomi](https://github.com/rhyme80/curso_planeamiento_2020-1/tree/master/Xiaomi)
 
 * **Pedro Pablo Clavijo Tito**
 * **Javier Choquemamani Yucra** 
@@ -78,7 +78,7 @@ Proyectos desarrollados en el curso de planeamiento estrategico
 
 ## --- 
 
-[---](https://github.com/your/project/contributors)
+[---](https://github.com/rhyme80/curso_planeamiento_2020-1/tree/master/Apple)
 
 * **Shui Danitza Sullcahuaman Amao**
 * **Hilston Will Callañaupa Chihuantito** 
@@ -87,7 +87,7 @@ Proyectos desarrollados en el curso de planeamiento estrategico
 
 ## Asus 
 
-[Asus](https://github.com/your/project/contributors)
+[Asus](https://github.com/rhyme80/curso_planeamiento_2020-1/tree/master/Asus)
 
 * **Percy Bryan Jove Chirinos**
 * **Dennis Yutaro Sullcahuaman Valdez** 
