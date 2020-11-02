@@ -1,0 +1,292 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@700&family=Pacifico&display=swap');
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+hr{
+    height: 1px;
+    border:none;
+    background: #228b22;
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+
+
+p,h1{
+    max-width: 80%;
+    margin-right: 20px auto;
+}
+
+h1{
+    font-weight: normal;
+}
+.logo{
+    font-family: 'Pacifico';
+    font-size: 70px;
+}
+.logo_main{
+    height: 200px;
+    padding: 20px;
+    background: #ffff00;
+    color: #228b22;
+    cursor: default;
+}
+
+.logo_small{
+    display: inline-block;
+    font-size: 20px;
+    padding: 4px;
+    margin-right: 50px;
+    /*color: #019CDE;*/
+    color: #228b22;
+    cursor: pointer;
+}
+
+.nav{
+    float: left;
+    width: 100%;
+    background: #222;
+    padding: 0 20px;
+    transition: 3.s ease all;
+    backface-visibility: hidden;;
+    transform: translate(0, 0, 0);
+    -webkit-transform:translate(0, 0, 0);
+}
+
+nav .wrap{
+    position: relative;;
+    left: -150px;
+    transition: 0.4s ease all;
+}
+nav{
+    display: inline-block;
+}
+
+nav ul{
+    display: block;
+    padding: 20px;
+    margin: 0;
+    color: white;
+    text-decoration: none;
+    transition: 0.2s ease all;
+}
+
+nav li{
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+
+nav a{
+    display: block;
+    padding: 20px;
+    margin: 0;
+    color: white;
+    text-decoration:none;
+    transition: 0.2s ease all;
+}
+
+nav a:hover{
+    color: white;
+    background: #019CDE;
+}
+
+.main{
+    background: white
+    padding: 80px 60px; 
+    
+}
+.contenedor-servicio{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+/*Css de las tablas
+#main-container{
+    margin: 150px auto;
+    width: 600px;*/
+
+}
+ table{
+    width: 50%;
+    background: #92fe9d;
+    border-collapse: collapse;
+    text-align:left;
+ }
+
+/*th, td{
+   /*border:solid 1px black;
+   padding: 20px;*/
+    th{
+    
+    background-image: linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b12a5b 100%);
+    
+    font-family: 'Oswald';
+    padding: 15px;
+   }
+
+   td{
+    font-family: 'Oswald';
+    padding: 10px;
+    text-align: center;
+   }
+
+
+ }
+
+ thead{
+    background-color: #ff0844;
+    border-bottom: solid 5px black;
+    border-top: solid 5px black;
+    border-right: solid 5px black;
+    border-left: solid 5px black;
+
+ }
+
+ tr:nth-child(even){
+   background-color: #ffe4c4;
+
+ }
+tr:hover{
+
+    background-color: #ff0844;
+}
+
+/* Footer */
+footer{
+    background: #ffff00;
+    padding-bottom: 0.1px;
+}
+
+.footer-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-top: 5px;
+    padding-bottom: 15px;
+}
+
+
+.contact-us{
+    width: 40%;
+    color: #228b22;
+    margin-left: 60px;
+    font-family: 'Oswald';
+}
+
+.brand{
+    font-weight: 500;
+    font-size: 40px;
+    display: flex;
+    justify-content: flex-start;
+    
+}
+
+.brand+p{
+    font-weight: 500;
+  
+}
+
+.social-media{
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    padding: 20px;
+    background: #ffff00;
+    color: #228b22;
+    cursor: default;
+}
+
+.social-media-icon{
+    display: inline-block;
+    margin-left: 20px;
+    width: 60px;
+    height: 60px;
+    border: 1px solid #006400;
+    border-radius: 50%;
+    text-align: center;
+    color: #228b22;
+}
+
+.social-media-icon i{
+    font-size: 30px;
+    line-height: 60px;
+}
+
+.line{
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+    height: 2px;
+    background: #fff;
+    margin-bottom: 60px;
+}
+
+.social-media-icon:hover{
+    background: #fff;
+    color:#764ba2;
+}
+
+/* Medida para celulares*/
+@media screen and (max-width: 800px){
+    .menu-navegacion{
+        width: 50vw;
+    }
+
+    .titulo{
+        font-size: 40px;
+    }
+
+    .contenedor-servicio img{
+        width: 80%;
+        margin-bottom: 40px;
+    }
+    
+    .checklist-servicio{
+        width: 80%;
+    }
+
+    .service{
+        margin-bottom: 30px;
+    }
+
+    .img-galeria{
+        width: 45%;
+    }
+    
+    .agregarImagen{
+        width: 80%;
+    }
+
+    
+    .cont-expert{
+        width: 80%;
+    }
+    
+    .footer-content{
+        justify-content: center;
+    }
+
+    .social-media{
+        width: 80%;
+        justify-content: space-evenly;
+    }
+
+    .social-media-icon{
+        margin-left: 0;
+    }
+
+    .contact-us{
+        text-align: center;
+        width: 80%;
+        margin-bottom: 40px;
+    }
+    
+}
+
