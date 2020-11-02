@@ -4,7 +4,7 @@ Proyectos desarrollados en el curso de planeamiento estrategico
 
 ## Telefónica 
 
-[Telefonica](https://github.com/rhyme80/curso_planeamiento_2020-1/tree/master/Telefonica)
+[Telefonica](https://github.com/rhyme80/curso_planeamiento_2020-1/tree/master/TelefonicaPeru)
 
 * **Maricruz Huaynapata Quispe**
 * **Fernando Rafael Calla Yarihuaman** 
@@ -22,7 +22,7 @@ Proyectos desarrollados en el curso de planeamiento estrategico
 
 ## Petro Peru 
 
-[PetroPeru](https://github.com/rhyme80/curso_planeamiento_2020-1/tree/master/PeruPetro)
+[PetroPeru](https://github.com/rhyme80/curso_planeamiento_2020-1/tree/master/Perupetro)
 
 * **Arthur Davis Huayaconza Condori**
 * **Erick Eribertho Chapi Huillca** 
