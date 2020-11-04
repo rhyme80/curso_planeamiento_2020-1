@@ -1,5 +1,6 @@
 # PLANEAMIENTO ESTRATEGICO 2020-I UNSAAC
 
+## Docente: CANDIA OVIEDO, DENNIS IVAN
 Proyectos desarrollados en el curso de planeamiento estrategico
 
 ## Telefónica 
